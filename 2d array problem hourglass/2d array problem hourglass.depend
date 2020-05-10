@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589102510 source:/home/bananaboi/Hackerrank Challenges/2d array problem hourglass/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
